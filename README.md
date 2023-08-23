@@ -1,7 +1,22 @@
-### Hi there 👋
+
+# Hi, I'm JoonYong :wave: :man:‍:computer:
+
+
+### :hammer_and_wrench: Language and Tools
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+
+
+## :mailbox: How to reach me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonyongpark99@gmail.com)](mailto:juyeonglee0413@gmail.com)
+
+
+  
+
 
 <!--
-**JoonYong-Park/JoonYong-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JoonYong-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
