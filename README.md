@@ -9,7 +9,7 @@
 
 
 ## :mailbox: How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonyongpark99@gmail.com)](mailto:juyeonglee0413@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonyongpark99@gmail.com)](mailto:joonyongpark99@gmail.com)
 
 
   
