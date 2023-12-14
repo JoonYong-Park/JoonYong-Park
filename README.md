@@ -1,10 +1,17 @@
 
-# Hi, I'm JoonYong :wave: :man:‍:computer:
+# Hi, I'm JoonYong :wave: :man:‍:computer:    
+  
+### Growing Backend Developer 🌱  
+<br/>
 
 
-### :hammer_and_wrench: Language and Tools
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+      
+## 📖 I'm studying
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/><a>
+
+## :hammer_and_wrench: Language and Tools
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
