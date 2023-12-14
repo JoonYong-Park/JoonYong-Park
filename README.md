@@ -1,7 +1,7 @@
 
 # Hi, I'm JoonYong :wave: :man:‍:computer:    
-  
-### Growing Backend Developer 🌱  
+#### Growing Backend Developer 🌱  
+
 <br/>
 
 ## 📖 I'm studying
