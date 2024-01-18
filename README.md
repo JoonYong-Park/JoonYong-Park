@@ -8,6 +8,7 @@
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/><a>
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white"/><a>
+  <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=plastic&logo=JetpackCompose&logoColor=white"/><a>
 </p>
     
 ## 📖 I will study
