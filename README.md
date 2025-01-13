@@ -1,5 +1,5 @@
 ## :wave: Hi, I'm JoonYong  :man_technologist:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFFFFF&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EA%B1%B0%EC%A7%93&random=%EA%B1%B0%EC%A7%93&width=600&height=70&lines=Developer+who+enjoys+achieving+through+challenges%F0%9F%98%84++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=F0F0F0&background=FFFFFF00&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=630&lines=Developer+who+enjoys+achieving+through+challenges+%F0%9F%98%84+" alt="Typing SVG" /></a>
 
 
 ## :hammer_and_wrench: Skills
@@ -68,5 +68,6 @@
 </table>
 <br/>
 
-## :mailbox: How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:joonyongpark99@gmail.com)](mailto:joonyongpark99@gmail.com)
+## :mailbox: Connect with Me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:joonyongpark99@gmail.com)](mailto:joonyongpark99@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF6000?style=plastic&logo=Tistory&logoColor=white&link=https://achieve-dev.tistory.com/)](https://achieve-dev.tistory.com/)
