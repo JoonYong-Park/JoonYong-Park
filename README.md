@@ -71,3 +71,4 @@
 ## :mailbox: Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:joonyongpark99@gmail.com)](mailto:joonyongpark99@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-FF6000?style=plastic&logo=Tistory&logoColor=white&link=https://achieve-dev.tistory.com/)](https://achieve-dev.tistory.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/joonyongpark0331)](https://www.linkedin.com/in/joonyongpark0331)
