@@ -44,8 +44,9 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white" style="height: 20px; margin: 5px;"><br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white" style="height: 20px; margin: 5px;"><br>
-      <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white" style="height: 20px; margin: 5px;"><br>
+<!--       <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white" style="height: 20px; margin: 5px;"><br> -->
       <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white" style="height: 20px; margin: 5px;"><br>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white" style="height: 20px; margin: 5px;"><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=IntelliJ%20IDEA&logoColor=white" style="height: 20px; margin: 5px;"><br>
